@@ -9,12 +9,6 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 </div>
-<div style={display:flex} align="center">
-  <img src="https://img.shields.io/badge/Styled%20Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E5?style=flat-square&logo=figma&logoColor=white"/>
-
-</div>
 
 <!--
 **kwonup/kwonup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
